@@ -1,16 +1,5 @@
-# destiny_app
+# Destiny 🤔
 
-A new Flutter project.
+It's a CYOA(Choose Your Own Adventure) game app using OOP in Dart.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (1203)](https://user-images.githubusercontent.com/87477923/180450164-20ffb61e-3490-4ced-85db-be944342321d.png)
